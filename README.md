@@ -1,3 +1,6 @@
-# para ver algunas cartas.
+# Para ver algunas cartas.
 
-- anzoategui [anzoategui](anzoategui)
+- [Anzoátegui](anzoategui)
+- [Esquel](esquel)
+- [Bahía Blanca](bahia_blanca)
+- [Verónica](veronica)
